@@ -1,0 +1,8 @@
+XF86AudioMute
+    /home/tait/.local/bin/toggle-mute
+XF86AudioLowerVolume
+    amixer -q sset Master 5%-
+XF86AudioRaiseVolume
+    amixer -q sset Master 5%+
+super + shift + w
+    /home/tait/.local/bin/saved_websites.sh

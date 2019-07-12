@@ -1,5 +1,3 @@
-(load-file "/home/tait/.emacspeak-49.0/lisp/emacspeak-setup.el")
-(global-set-key (kbd "C-z") 'undo)
-(global-set-key (kbd "C-Z") 'redo)
+(load-file "/home/tait/emacspeak-49.0/lisp/emacspeak-setup.el")
 
-(dtk-set-rate 300 1)
+(dtk-set-rate 350 1)
